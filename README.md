@@ -8,7 +8,8 @@ npm start
 npm run build
 
 # Run for deployment
-git checkout -b gh-pages
+git checkout gh-pages
+npm run build
 mv build/* ./
 git add .
 git commit -m "Deploy app to GitHub Pages"
