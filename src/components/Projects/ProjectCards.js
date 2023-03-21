@@ -1,6 +1,6 @@
 import React from "react";
-import Card from "react-bootstrap/esm/Card";
-import Button from "react-bootstrap/esm/Button";
+import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 
